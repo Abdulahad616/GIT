@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.menu{
+    width: 310px;
+    height: 600px;
+    border: 7px solid black;
+    margin-top: 20px;
+    margin-left: 500px;
+    border-radius: 60px;
+}
+.main{
+    width: 300px;
+    height: 590px;
+    border: 6px solid gray;
+    border-radius: 50px;
+}
+h5{
+    margin-top: 3px;
+    margin-left: 23px;
+}
+.noob{
+    width: 125px;
+    height: 25px;
+    background-color: black;
+    margin-left: 80px;
+    margin-top: -20px;
+    border-radius: 0px 0px 10px 10px;
+}
+h3{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.back{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 15px
+}
+.aylana1{
+    width: 59px;
+    height: 59px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-left: -5px;
+}
+.aylana{
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    background: linear-gradient(-100deg, rgb(191, 3, 248),red,gold);
+    margin-left: 10px;
+}
+.doira{
+    width: 52.5px;
+    height: 52.5px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: auto;
+    margin-top: 2px;
+    border: 2px solid white;
+}
+.plus{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: solid white;
+}
+hr{
+    margin-top: 5px;
+    border: 2px solid gray;
+}
+.aylana2{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: linear-gradient(-100deg,rgb(191, 3, 248), red, gold);
+    margin-top: 10px;
+    margin-left: 5px;
+    display: flex;
+}
+.doira2{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: auto;
+    margin-top: 3px;
+    border: 2px solid white;
+}
+.hh6{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.fon{
+    width: 280px;
+    height: 220px;
+    background-color: gray;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.divchalar{
+    display: flex;
+    margin-left: 130px;
+
+}
+.divcha1{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.divcha2{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.divcha3{
+    width: 5.1px;
+    height: 5.1px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 6px;
+    margin-left: 2px;
+}
+.divcha4{
+    width: 4.1px;
+    height: 4.1px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 6.5px;
+    margin-left: 2px;
+}
+.footer hr{
+    margin-top: 74px;
+}
